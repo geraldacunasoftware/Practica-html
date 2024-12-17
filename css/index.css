@@ -1,0 +1,29 @@
+ul{
+display: flex;
+justify-content: space-around;
+}
+nav{
+    background-color: rgb(197, 170, 62);
+}
+li{
+    background-color: brown;
+    text-decoration: none;
+}
+#cabecera{
+background-color: bisque;}
+
+#lateral{
+    background-color: aqua;
+}
+#principal{
+    background-color: blueviolet;
+}
+#pie{
+    background-color: chartreuse;
+}
+.infoPrincipal{
+    display: flex;
+}
+#contact {
+    background-color: cornflowerblue;
+}
